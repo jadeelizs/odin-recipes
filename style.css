@@ -1,0 +1,59 @@
+.background {
+    background-color: lightskyblue;
+}
+
+.pages {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 12px;
+    background-color: yellow;
+}
+
+#combinators {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    background-color: tomato;
+}
+
+.description {
+    font-family: cursive;
+    font: 16px;
+    color: black;
+    text-align: center;
+}
+
+.paragraph {
+    font-family:'Times New Roman', Times, serif;
+    font: 10px;
+    color: black;
+    background-color: chocolate;
+}
+
+.ingredients {
+    font-family: cursive;
+    font: 16px;
+    color: black;
+    text-align: center;
+}
+
+.ingredient-list {
+    font-family: 'Times New Roman', Times, serif;
+    font: 10px;
+    color: black;
+    background-color: blueviolet;
+}
+
+.step {
+    font-family: cursive;
+    font: 16px;
+    color: black;
+    text-align: center;
+}
+
+.steps {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: 12px;
+    color: white;
+    background-color: orange;
+    text-align: center;
+}
